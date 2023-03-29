@@ -24,17 +24,17 @@
 
 ## Tools
 
-* [GraphQLmap - Scripting engine to interact with a graphql endpoint for pentesting purposes](https://github.com/swisskyrepo/GraphQLmap)
-* [GraphQL-voyager - Represent any GraphQL API as an interactive graph](https://apis.guru/graphql-voyager/)
-* [GraphQL Security Toolkit - GraphQL Security Research Material](https://github.com/doyensec/graph-ql/)
-* [Graphql-path-enum - Lists the different ways of reaching a given type in a GraphQL schema](https://gitlab.com/dee-see/graphql-path-enum)
-* [GraphQL IDE - An extensive IDE for exploring GraphQL API's](https://github.com/andev-software/graphql-ide)
-* [ClairvoyanceX - Obtain GraphQL API schema despite disabled introspection](https://github.com/mchoji/clairvoyancex)
-* [InQL - A Burp Extension for GraphQL Security Testing](https://github.com/doyensec/inql)
-* [Insomnia - Cross-platform HTTP and GraphQL Client](https://insomnia.rest/)
-* [AutoGraphql + introspection](https://graphql-dashboard.herokuapp.com/)
-* [CrackQL - A GraphQL password brute-force and fuzzing utility.](https://github.com/nicholasaleks/CrackQL)
-* [GraphQL Threat Matrix - GraphQL threat framework used by security professionals to research security gaps in GraphQL implementations ](https://github.com/nicholasaleks/graphql-threat-matrix)
+* [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - Scripting engine to interact with a graphql endpoint for pentesting purposes
+* [doyensec/graph-ql](https://github.com/doyensec/graph-ql/) - GraphQL Security Research Material
+* [doyensec/inql](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing
+* [dee-see/graphql-path-enum](https://gitlab.com/dee-see/graphql-path-enum) - Lists the different ways of reaching a given type in a GraphQL schema
+* [andev-software/graphql-ide](https://github.com/andev-software/graphql-ide) - An extensive IDE for exploring GraphQL API's
+* [mchoji/clairvoyancex](https://github.com/mchoji/clairvoyancex) - Obtain GraphQL API schema despite disabled introspection
+* [nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL) - A GraphQL password brute-force and fuzzing utility
+* [nicholasaleks/graphql-threat-matrix](https://github.com/nicholasaleks/graphql-threat-matrix) - GraphQL threat framework used by security professionals to research security gaps in GraphQL implementations
+* [dolevf/graphql-cop](https://github.com/dolevf/graphql-cop) - Security Auditor Utility for GraphQL APIs
+* [IvanGoncharov/graphql-voyager)](https://github.com/IvanGoncharov/graphql-voyager) - Represent any GraphQL API as an interactive graph
+* [Insomnia](https://insomnia.rest/) - Cross-platform HTTP and GraphQL Client
 
 ## Exploit
 
@@ -329,3 +329,4 @@ mutation finishChannelVerificationMutation(
 * [Introspection query leaks sensitive graphql system information - @Zuriel](https://hackerone.com/reports/291531)
 * [Graphql Bug to Steal Anyone’s Address - Sept 1, 2019 - Pratik Yadav](https://medium.com/@pratiky054/graphql-bug-to-steal-anyones-address-fc34f0374417)
 * [GraphQL Batching Attack - RENATAWALLARM - DECEMBER 13, 2019](https://lab.wallarm.com/graphql-batching-attack/)
+* [GraphQL for Pentesters presentation by ACCEIS - 01/12/2022](https://acceis.github.io/prez-graphql/) - [source](https://github.com/Acceis/prez-graphql)
